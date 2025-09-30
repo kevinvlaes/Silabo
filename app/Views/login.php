@@ -62,7 +62,10 @@
         </div>
         <div class="text-center">
           <button class="btn btn-primary" type="submit">Ingresar</button>
+          
         </div>
+        <a href="index.php?action=forgotForm" class="small">Olvidé mi contraseña</a>
+
       </form>
 
       <div class="text-center mt-5">
